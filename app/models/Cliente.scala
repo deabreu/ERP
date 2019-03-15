@@ -6,6 +6,4 @@ case class Cliente(val id: Int,
                    val email: String,
                    val telefone: String,
                    val celular: String,
-                   val cidade: String) {
-
-}
+                   val cidade: String)
